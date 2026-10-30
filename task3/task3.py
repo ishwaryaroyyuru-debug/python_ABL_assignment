@@ -64,4 +64,4 @@ Application ID: 2026
 Qualifying Examination Percentage: 85.00%
 Entrance Examination Score: 78.00
 Admission Status: ELIGIBLE FOR ADMISSION
-=======================================                 py
+=======================================
