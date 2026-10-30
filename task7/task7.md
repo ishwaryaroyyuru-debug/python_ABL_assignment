@@ -74,4 +74,4 @@ Start2 > END1
 and
 \[
 \text{Start}_2 < \text{End}_1
-\]                                md
+\]  
