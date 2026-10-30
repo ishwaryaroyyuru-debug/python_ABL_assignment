@@ -112,4 +112,4 @@ Total Expenditure: Rs. 40000.00
 ----- FINAL RESULT -----
 Financial Balance: Rs. 15000.00
 Result: PROFIT
-=========================================               (2py)
+=========================================
