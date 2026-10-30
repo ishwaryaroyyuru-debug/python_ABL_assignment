@@ -55,4 +55,4 @@ Qualifying Examination Percentage: 85%
 Entrance Examination Score: 78
 
 Admission Status: ELIGIBLE FOR ADMISSION
-=======================================                    md
+=======================================
