@@ -56,4 +56,4 @@ Total Bill: Rs. 7000
 # Calculation:
 Room Charges=3*1500=4500
 Total Bill=500+2000+4500
-Total Bill = 7000                    (md)
+Total Bill = 7000                    
