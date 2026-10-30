@@ -89,4 +89,4 @@ Total expenditure
 
 Financial balance
 
-₹55,000-₹40,000=₹15,000                    md
+₹55,000-₹40,000=₹15,000
