@@ -72,4 +72,4 @@ Purchase Discount (10%): Rs. 600.00
 Membership Discount (5%): Rs. 270.00
 Total Discount: Rs. 870.00
 Final Payable Amount: Rs. 5130.00
-=================================               py
+=================================
